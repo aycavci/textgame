@@ -36,7 +36,7 @@ You may download it [here](https://git-scm.com/downloads) if you don't have it i
 Use the terminal to clone this repo:
 
 ```
-git clone https://github.com/NinaAurora/text-game.git
+git clone https://github.com/aycavci/textgame.git
 ```
 Make sure it's up to date:
 ```
